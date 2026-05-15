@@ -52,9 +52,9 @@ Check how well the model classifies iris species
 
 ## PROGRAM
 
-### Name:JAWAHAR BABU S
+### Name: JAWAHAR BABU S
 
-### Register Number:212224220041
+### Register Number: 212224220041
 
 ```python
 class PeopleClassifier(nn.Module):
@@ -103,7 +103,8 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 
 ### OUTPUT
-<img width="1183" height="761" alt="WhatsApp Image 2026-04-27 at 2 22 11 PM (1)" src="https://github.com/user-attachments/assets/bfef18e7-5aa9-4356-9219-9a02542632f7" />
+<img width="1563" height="1006" alt="ChatGPT dl photo 3" src="https://github.com/user-attachments/assets/20651a4d-7ded-4f8d-9f74-618cca5da518" />
+
 
 ## Confusion Matrix
 
@@ -113,11 +114,11 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 
 ## Classification Report
-<img width="1183" height="761" alt="WhatsApp Image 2026-04-27 at 2 22 11 PM (1)" src="https://github.com/user-attachments/assets/bfef18e7-5aa9-4356-9219-9a02542632f7" />
+<img width="1564" height="1006" alt="ChatGPT dl photo 4" src="https://github.com/user-attachments/assets/e8bafc4c-739a-4281-b2a9-6a6dd29bad3f" />
 
 
 ### New Sample Data Prediction
-<img width="1430" height="376" alt="image" src="https://github.com/user-attachments/assets/90554f70-f884-46d5-924e-9994a4120b33" />
+<img width="1774" height="886" alt="ChatGPT dl photo 5" src="https://github.com/user-attachments/assets/cccd4368-1fce-4f12-86b4-d2b4b53bb92f" />
 
 ## RESULT
 Thus, the neural network model correctly predicts the class of iris flowers, fulfilling the objective of the experiment.
